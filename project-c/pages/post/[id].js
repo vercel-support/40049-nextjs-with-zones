@@ -5,10 +5,10 @@ export default function Post() {
   const router = useRouter()
   return (
     <div>
-      <h3>Post #{router.query.id}</h3>
+      <h3>Post #{router.query.id} of Project C</h3>
       <p>Lorem ipsum</p>
       <Link href="/">
-        <a>Back to blog</a>
+        <a>Back to Project C</a>
       </Link>
     </div>
   )

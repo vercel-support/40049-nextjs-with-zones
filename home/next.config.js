@@ -14,28 +14,28 @@ module.exports = {
         destination: `https://40049-nextjs-with-zones-blog.vercel-support.app/blog/:path*`,
       },
       {
-        source: '/b',
-        destination: `https://40049-nextjs-with-zones-b.vercel-support.app/b`,
+        source: '/services/b',
+        destination: `https://40049-nextjs-with-zones-b.vercel-support.app/services/b`,
       },
       {
-        source: '/b/:path*',
-        destination: `https://40049-nextjs-with-zones-b.vercel-support.app/b/:path*`,
+        source: '/services/b/:path*',
+        destination: `https://40049-nextjs-with-zones-b.vercel-support.app/services/b/:path*`,
       },
       {
-        source: '/c',
-        destination: `https://40049-nextjs-with-zones-c.vercel-support.app/c`,
+        source: '/services/c',
+        destination: `https://40049-nextjs-with-zones-c.vercel-support.app/services/c`,
       },
       {
-        source: '/c/:path*',
-        destination: `https://40049-nextjs-with-zones-c.vercel-support.app/c/:path*`,
+        source: '/services/c/:path*',
+        destination: `https://40049-nextjs-with-zones-c.vercel-support.app/services/c/:path*`,
       },
       {
-        source: '/d',
-        destination: `https://40049-nextjs-with-zones-d.vercel-support.app/d`,
+        source: '/services/d',
+        destination: `https://40049-nextjs-with-zones-d.vercel-support.app/services/d`,
       },
       {
-        source: '/d/:path*',
-        destination: `https://40049-nextjs-with-zones-d.vercel-support.app/d/:path*`,
+        source: '/services/d/:path*',
+        destination: `https://40049-nextjs-with-zones-d.vercel-support.app/services/d/:path*`,
       },
     ]
   },

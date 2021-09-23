@@ -1,3 +1,3 @@
 module.exports = {
-  basePath: '/d',
+  basePath: '/services/d',
 }
