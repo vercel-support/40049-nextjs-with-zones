@@ -18,17 +18,17 @@ export default function Home() {
         </Link>
       </div>
       <div>
-        <Link href="/b">
+        <Link href="/services/b">
           <a>Project B</a>
         </Link>
       </div>
       <div>
-        <Link href="/c">
+        <Link href="/services/c">
           <a>Project C</a>
         </Link>
       </div>
       <div>
-        <Link href="/d">
+        <Link href="/services/d">
           <a>Project D</a>
         </Link>
       </div>
